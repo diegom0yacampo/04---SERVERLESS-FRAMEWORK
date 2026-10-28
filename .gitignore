@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.serverless/
+.expo/
+.env
+.env.*
+.aws/
+.DS_Store
